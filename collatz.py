@@ -1,6 +1,7 @@
 #Pat McDonald - 8/2/2018
 #Exercise 3: Collatz conjecture
 #Week 3 of Programming and Scripting
+#Inspired by Reddit!: https://www.reddit.com/r/Python/comments/57r6bf/collatz_conjecture_program/?st=jdhil1j5&sh=ba8fd995
 
 n = int(input("Type an integer: "))
 print(n)
