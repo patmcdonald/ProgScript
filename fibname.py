@@ -1,5 +1,6 @@
 #Code by Ian McLoughlin
-# A program that displays Fibonacci numbers using people's names.
+#A program that displays Fibonacci numbers using people's names.
+#From Week 2 of Programming and Scripting 
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
