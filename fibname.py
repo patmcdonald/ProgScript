@@ -1,7 +1,8 @@
-#Code by Ian McLoughlin
-#A program that displays Fibonacci numbers using people's names.
-#From Week 2 of Programming and Scripting 
-
+# Pat McDonald
+# Exercise 2, Week 2 of Programming and Scripting
+# Original code by Ian McLoughlin
+# A program that displays Fibonacci numbers using people's names.
+# This script includes the python ord() function 
 def fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
