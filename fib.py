@@ -1,7 +1,7 @@
-#Pat McDonald - Exercise 1
+#Pat McDonald - Week 1, Exercise 1
 # Original code by Ian McLoughlin
 # A program that displays Fibonacci numbers.
-# Exercise 1: Programming and Scripting
+
 def fib(n):
   #This function returns the nth Fibonacci number.
   i = 0
