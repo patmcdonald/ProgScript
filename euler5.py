@@ -1,3 +1,5 @@
+#Pat McDonald
+#Exercise 4: Programming and Scripting
 
 #https://stackoverflow.com/questions/8024911/project-euler-5-in-python-how-can-i-optimize-my-solution/8025847#8025847
 #List comprehensions are faster than for loops:
