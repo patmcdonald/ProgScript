@@ -2,5 +2,5 @@
 #Exercise 5: Programming and Scripting
 
 with open("data/iris.csv") as f:
-  contents = f.read()
+  contents = f.read() 
   print(contents)
