@@ -11,13 +11,3 @@ with open("data/iris.csv") as f:
         line = line.replace(',', ' ')
         line = line.rstrip()
         print(line[:11], line[12:16].strip())
-
-'''with open(file_path) as data_file:
-
-    for line in data_file:
-
-        line = line.replace(',', ' ')
-        line = line.rstrip()
-        print(line[:11], line[12:16].strip())
- 
-'''
