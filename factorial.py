@@ -7,4 +7,5 @@ import math
 n = int(input("Type an integer: "))
 #declare variable, call factorial function
 factorial = math.factorial(n)
+#Print the factorial output
 print(factorial)
