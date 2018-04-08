@@ -24,10 +24,9 @@ for n in range(12, 20):
 
 print(llcm)'''
 #From the same GitHub Gist above:
-
 #Found the following on the Euler Problem 3 forum, by signature lassevk
 #It's quite neat!
-'''i = 1
+i = 1
 for k in (range(1, 21)): 
   if i % k > 0: 
     for j in range(1, 21): 
@@ -35,9 +34,9 @@ for k in (range(1, 21)):
         i *= j 
         break 
 
-print(i)'''
+print(i)
 
-#From:https://code.mikeyaworski.com/python/project_euler/problem_5
+'''#From:https://code.mikeyaworski.com/python/project_euler/problem_5
 
 #Takes a few seconds to return: findSmallestMultiple(20)
 # 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
@@ -67,5 +66,5 @@ def factorial(n):
     else: return -1
 
 print (findSmallestMultiple(10)) # 2520
-print (findSmallestMultiple(20))
+print (findSmallestMultiple(20))'''
 
