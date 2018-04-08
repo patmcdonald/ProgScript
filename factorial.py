@@ -1,6 +1,5 @@
 #Pat McDonald
 #Exercise 6: Functions
-
 #importing python math module
 import math
 #used input from collatz.py
