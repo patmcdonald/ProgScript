@@ -23,9 +23,10 @@ for n in range(12, 20):
   llcm = lcm(n, llcm)
 
 print(llcm)'''
-#From the same GitHub Gist above:
-#Found the following on the Euler Problem 3 forum, by signature lassevk
-#It's quite neat!
+
+#From the same GitHub Gist above:https://gist.github.com/PEZ/47534
+#I'm running this because it's the most succinct code I've seen, so far.
+#I don't 100% understand it, but I admire it's simplicity!
 i = 1
 for k in (range(1, 21)): 
   if i % k > 0: 
