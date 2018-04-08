@@ -2,6 +2,7 @@ Python coding exercises from my Programming and Scripting course.
 This is part of my studies for the Higher Diploma in Data Analytics with GMIT.
 
 [Exercise 1](https://github.com/patmcdonald/ProgScript/blob/master/fib.py)
+
 This file is the first python program of the course. It displays a fibonacci output of inputed integers.
 
 [Exercise 2](https://github.com/patmcdonald/ProgScript/blob/master/fibname.py)
